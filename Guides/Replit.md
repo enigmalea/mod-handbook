@@ -13,3 +13,10 @@ the left pane to write in and the right pane to preview.
 6. To switch to preview mode, click on the eye icon.
 
 You may add as many work panes as you like.
+
+## Markdown Reference
+
+Replit has some additional options for markdown including allowing us to have
+excalidraw canvases displayed directly in our markdown or allowing us to insert
+embeds of videos and more. For more information on all of these options see
+[Using Markdown on Replit](https://docs.replit.com/tutorials/replit/markdown).

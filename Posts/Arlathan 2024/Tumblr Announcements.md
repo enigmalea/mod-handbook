@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 ## Schedule
+=======
+>>>>>>> baa6531 (updated first posts.)
 
 ```markdown
 # Arlathan eXchange is returning!

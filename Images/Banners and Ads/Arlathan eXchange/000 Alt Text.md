@@ -10,17 +10,20 @@ A black background with amber glowing golden text that says "Arlathan eXchange" 
 <<<<<<< HEAD
 ```
 
+
 ## 24 Hour Reminder
 ![](./Reminder24h.png)
 ```
 A banner that says "Arlathan eXchange 24-hours reminder" in a script font overlays a statue of a wolf bathed in golden light and surrounded by flowers.
 ```
 
+
 ## 48 Hour Reminder
 ![](./Reminder48h.png)
 ```
 A banner that says "Arlathan eXchange 48-hours reminder" in a script font overlays a towering elven structure in the middle of a lake, framed by a bright blue sky and trees.
 ```
+
 
 ## 72 Hour Reminder
 ![](./Reminder72h.png)

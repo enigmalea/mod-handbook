@@ -34,3 +34,4 @@
 → The event's use of Twitter/X will be phased out this year. Please make sure to follow us on other social media for announcements as we make this transition.
 
 → This event is officially affiliated with [The Hanged Man](https://thehangedmanpub.netlify.app/)! The Hanged Man is an unofficial collective of Dragon Age fans who try to make a positive difference in the fandom community by giving fans a place to chat, share and create content, and interact. You can read more on [our website](https://arlathanxchange.neocities.org/mod).
+```

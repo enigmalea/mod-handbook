@@ -17,7 +17,7 @@ After updating, links should look like:
 ```markdown
 # Arlathan eXchange is returning!
 
-![Ad Banner](https://64.media.tumblr.com/de1ae21afa87b6cf474653cece168054/1a2d137a6ddf5bdb-6c/s640x960/c6cdecfccbae426b77f6b48ed84f83ba684bcbe8.gif)
+![A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
 
 ## IMPORTANT DATES
 

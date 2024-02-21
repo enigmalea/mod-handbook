@@ -1,6 +1,5 @@
 
 ## Schedule
-
 ```markdown
 # Arlathan eXchange is returning!
 

@@ -12,8 +12,17 @@ After updating, links should look like:
 [I am a link.](https://url.com)
 ```
 
-## Schedule
+# Contents
 
+- [Schedule Release](./Tumblr%20Announcements.md#schedule%20release)
+  - [Pre-Nominations Promo] 
+- [Nominations]
+  - [Nominations Open]
+  - [Nominations Update]
+  - [Nominations Close]
+- [Sign-Ups]
+
+## Schedule Release
 ```markdown
 # Arlathan eXchange is returning!
 
@@ -44,4 +53,44 @@ After updating, links should look like:
 The Hanged Man is an unofficial collective of Dragon Age fans who try to make a positive difference in the fandom community by giving fans a place to chat, share and create content, and interact. You can read more on [our website](https://arlathanxchange.neocities.org/mod).
 ```
 
+## Pre-Nominations Promo
+```markdown
+# Arlathan eXchange is returning!
+
+![](<#meme image#>)
+
+## :sparkles: **Join us for the 2024 exchange** :sparkles:
+
+If you love elves, than we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
+
+**NOMINATIONS OPEN IN #x# WEEKS!**
+#Discord Timestamp#
+
+**Have questions?**
+☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
+☆ Join the Discord linked on our website.
+☆ Or contact us by:
+  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
+  ⤷ Emailing :e_mail: arlathanxchange@gmail.com.
+
+**Follow us:**
+⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
+⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
+⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
+```
+
 ## Nominations Open
+```markdown
+```
+
+## Nominations Update
+```markdown
+```
+
+## Nominations Close
+```markdown
+```
+
+## Sign-Ups Open
+```markdown
+```

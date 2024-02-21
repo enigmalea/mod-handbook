@@ -1,5 +1,4 @@
 ## Schedule
-
 ```markdown
 # Arlathan eXchange 2024 Schedule!
 

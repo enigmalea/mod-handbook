@@ -6,7 +6,7 @@ share in other DA Discords as appropriate. Please be sure to follow the
 Discord's rules for advertising.
 
 When posting, upload the
-[Ad Banner](https://replit.com/@enigmalea/mod-handbook#Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif)
+[Ad Banner](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
 first.
 
 **To Update the Template:** Replace the full `#Placeholder#` with the expected
@@ -20,15 +20,15 @@ After updating, links should look like:
 
 # Contents
 
-- [Schedule](./Discord%20Promos.md#pre-nominations)
-- [Nominations](./Discord%20Promos.md#nominations)
-- [Sign-Ups](./Discord%20Promos.md#sign-ups)
+- [Pre-Nominations](./Discord%20Promos.md#pre-nominations)
+- [Nominations Open](./Discord%20Promos.md#nominations%20open)
+- [Sign-Ups](./Discord%20Promos.md#sign-ups%20open)
+- [Sign-Ups 48h Reminder]
 
 
 ## Pre-Nominations
 ```markdown
 # Arlathan eXchange is returning!
-
 ## :sparkles: **Join us for the 2024 exchange** :sparkles:
 
 If you love elves, than we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
@@ -49,8 +49,7 @@ If you love elves, than we have the fanwork exchange for you! Arlathan Exchange 
 ⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
 ```
 
-## Nominations
-
+## Nominations Open
 ```markdown
 # Arlathan eXchange　#Year#
 ## :sparkles: **Nominations are open!** :sparkles:
@@ -77,21 +76,22 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 ⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
 ```
 
-## Sign-Ups
+## Sign-Ups Open
 ```markdown
 # Arlathan eXchange　#Year#
 ## :sparkles: __**SIGN-UPS ARE OPEN!**__ :sparkles:
 ### [**Sign-Up Here**](<#Sign-Up Link#>)
 _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces._
 
-__**SIGN-UPS CLOSE:**__ #Discord Timestamp#
+__**SIGN-UPS CLOSE:**__ 
+#Discord Timestamp#
 
 [__**Requests**__](<https://autoao3app.fandom.tools/#/arlathanxchange2023/all>)
 
 __**Approved Tags**__
-☆ **Nomination Spreadsheet:** <https://bit.ly/arlathan2023>
-☆ **On A03:** <https://archiveofourown.org/tag_sets/14455>
-☆ **On AutoAO3App:** <https://autoao3app.fandom.tools/#/arlathanxchange2023/tagset>
+☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)
+☆ [**On AO3**](<#Tagset Link#>)
+☆ [**On AutoAO3App**](<#AutoAO3 Link#>)
 
 __**Have questions or need help?**__
 ☆ Check out the Tutorial: <https://arlathanxchange.neocities.org/docs/tutorials/signups>
@@ -105,4 +105,8 @@ __**Have questions or need help?**__
 ⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 ⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
+```
+
+## Sign-Ups 48h Reminder
+```markdown
 ```

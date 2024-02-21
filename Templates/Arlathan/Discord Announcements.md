@@ -15,11 +15,19 @@ After updating, links should look like:
 
 # Contents
 
-[Schedule](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Announcements.md#schedule)
+- [Schedule](./Discord%20Announcements.md#schedule)
+- [Nominations]
+  - [Nominations Open]
+  - [Nominations Update]
+  - [Nominations Close]
+- [Sign-Ups]
+  - [Sign-Ups Open]
+  - [Sign-Ups 72h Reminder]
+  - [Sign-Ups 48h Reminder]
+  - [Sign-Ups 24h Reminder]
 
 
 ## Schedule
-
 ```markdown
 # Arlathan eXchange #year# Schedule!
 
@@ -45,3 +53,20 @@ After updating, links should look like:
 <:soctumblr:947659438158925834>  https://arlathanxchange.tumblr.com/post/742608035406544896/arlathan-exchange-is-returning
 <:soctwitter:947659438158917693>  https://twitter.com/ArlathanXchange/status/1758970791557841349
 <:socbluesky:1208532546237898804>  https://bsky.app/profile/arlathanxchange.bsky.social/post/3klnfogj75m2j
+```
+
+## Nominations Open
+```markdown
+```
+
+## Nominations Update
+```markdown
+```
+
+## Nominations Close
+```markdown
+```
+
+## Sign-Ups Open
+```markdown
+```

@@ -1,7 +1,7 @@
 # Arlathan Discord Ads
 
 Below are templates for ads we use for advertising various stages of the
-exchange in other DA Discords. We tend to update these general ads yearly and
+exchange in **other DA Discords**. We tend to update these general ads yearly and
 share in other DA Discords as appropriate. Please be sure to follow the
 Discord's rules for advertising.
 

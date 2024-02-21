@@ -21,7 +21,7 @@ After updating, links should look like:
 # Contents
 
 - [Schedule](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Promos.md#schedule)
-- [Nominations](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Promos.md#nominations)
+- [Nominations](https://github.com/enigmalea/mod-handbook/blob/main/Templates/Arlathan%20Discord%20Ads.md#nominations)
 - [Sign-Ups](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Promos.md#sign-ups)
 
 

@@ -15,7 +15,7 @@ After updating, links should look like:
 
 # Contents
 
-[Schedule](https://replit.com/@enigmalea/mod-handbook#Templates/Arlathan/Discord%20Announcements.md:16:11)
+[Schedule](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Announcements.md#schedule)
 
 
 ## Schedule

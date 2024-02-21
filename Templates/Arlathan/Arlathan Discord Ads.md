@@ -18,6 +18,34 @@ After updating, links should look like:
 [I am a link.](https://url.com)
 ```
 
+## Schedule
+```markdown
+# Arlathan eXchange　#Year#
+## :sparkles: **This year's schedule is here!** :sparkles:
+_Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces._
+
+**Nominations Open:** #Discord Timestamp#
+**Nominations Close:** #Discord Timestamp#
+**Sign-Ups Open:** #Discord Timestamp#
+**Sign-Ups Close:** #Discord Timestamp#
+**Assignments Received:** #Discord Timestamp#
+**Works Due:** #Discord Timestamp#
+**Works Revealed:** #Discord Timestamp#
+**Creators Revealed:** #Discord Timestamp#
+
+**Have questions?**
+☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
+☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
+☆ Or contact us with general questions by:
+  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
+  ⤷ Emailing :e_mail: arlathanxchange@gmail.com.
+
+**Follow us:**
+⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
+⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
+⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
+```
+
 ## Nominations
 
 ```markdown
@@ -35,15 +63,15 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 
 **Have questions or need help?**
 ☆ Check out the [tutorial](<https://arlathanxchange.neocities.org/docs/tutorials/nominate>).
-☆ Join the Discord linked on the website.
+☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
 ☆ Or contact us with general questions by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
   ⤷ Emailing :e_mail: arlathanxchange@gmail.com.
 
 **Follow us:**
 ⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
-⤷ [_Bluesky_](<>)
-⤷ [_Blog_](<>)
+⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
+⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
 ```
 ## Sign-Ups
 ```markdown
@@ -64,13 +92,13 @@ __**Approved Tags**__
 __**Have questions or need help?**__
 ☆ Check out the Tutorial: <https://arlathanxchange.neocities.org/docs/tutorials/signups>
 ☆ Or More FAQs: <https://arlathanxchange.neocities.org/docs/faqs>
-☆ Join the Discord linked on the website.
+☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
 ☆ Or contact us with general questions by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
   ⤷ Emailing :e_mail: arlathanxchange@gmail.com.
 
 **Follow us:**
 ⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
-⤷ [_Bluesky_](<>)
-⤷ [_Blog_](<>)
+⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
+⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
 ```

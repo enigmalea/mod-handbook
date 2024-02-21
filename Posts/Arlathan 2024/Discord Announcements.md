@@ -1,3 +1,5 @@
+# 2024 Discord Announcements
+
 ## Schedule
 ```markdown
 # Arlathan eXchange 2024 Schedule!

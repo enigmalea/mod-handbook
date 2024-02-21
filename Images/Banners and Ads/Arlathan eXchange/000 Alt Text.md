@@ -10,21 +10,21 @@ A black background with amber glowing golden text that says "Arlathan eXchange" 
 ```
 
 ## 24 Hour Reminder
-![](.Reminder24h.png)
+![](./Reminder24h.png)
 ```
 alt text
 ```
 
 
 ## 48 Hour Reminder
-![](.Reminder48h.png)
+![](./Reminder48h.png)
 ```
 alt text
 ```
 
 
 ## 72 Hour Reminder
-![](.Reminder72h.png)
+![](./Reminder72h.png)
 ```
 alt text
 ```

@@ -18,6 +18,13 @@ After updating, links should look like:
 [I am a link.](https://url.com)
 ```
 
+# Contents
+
+- [Schedule](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Promos.md#schedule)
+- [Nominations](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Promos.md#nominations)
+- [Sign-Ups](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Promos.md#sign-ups)
+
+
 ## Schedule
 ```markdown
 # Arlathan eXchange　#Year#
@@ -36,7 +43,7 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 **Have questions?**
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
 ☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
-☆ Or contact us with general questions by:
+☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
   ⤷ Emailing :e_mail: arlathanxchange@gmail.com.
 
@@ -64,7 +71,7 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 **Have questions or need help?**
 ☆ Check out the [tutorial](<https://arlathanxchange.neocities.org/docs/tutorials/nominate>).
 ☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
-☆ Or contact us with general questions by:
+☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
   ⤷ Emailing :e_mail: arlathanxchange@gmail.com.
 
@@ -93,7 +100,7 @@ __**Have questions or need help?**__
 ☆ Check out the Tutorial: <https://arlathanxchange.neocities.org/docs/tutorials/signups>
 ☆ Or More FAQs: <https://arlathanxchange.neocities.org/docs/faqs>
 ☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
-☆ Or contact us with general questions by:
+☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
   ⤷ Emailing :e_mail: arlathanxchange@gmail.com.
 

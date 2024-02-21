@@ -4,7 +4,9 @@ I'm primarily a writer, but I also love to run projects, events, and communities
 
 I have a hard time picking favorite characters or ships or tropes. I'm a hopeless multishipper who loves throwing everyone into poly configurations and seeing what shenanigans I can cook up.
 
+I'm looking forward to modding Arlathan eXchange again this year and can't wait to see what everyone creates!
+
 You can find or follow me on:
 - [enigmalea.quest](https://enigmalea.quest)
 - [tumblr](https://enigmalea.tumblr.com)
-- [mastodon](https://easymode.im/@enigmalea)
+- [FireFirsh (follow from mastodon!)](https://easymode.im/@enigmalea)

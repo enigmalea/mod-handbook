@@ -1,6 +1,6 @@
-# Arlathan Discord Announcements
+# DA Poly Discord Announcements
 
-Below are templates for announcements made during the various stages of the exchange in the Arlathan server. Can be used with [carlbot](https://carl.gg/)
+Below are templates for announcements made during the various stages of the exchange in the DA Poly server. Can be used with [carlbot](https://carl.gg/)
 
 A brief guide to using embeds with Carl can be found [here](https://docs.google.com/document/d/1vh4TDt-28M-mDBXp6NS8N6SCxd_bS_Qo75dBRrmr6R0/edit?usp=sharing).
 
@@ -15,17 +15,12 @@ After updating, links should look like:
 
 # Contents
 
-- [Schedule Release](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Announcements.md#schedule%20release)
-- [Nominations]
-  - [Nominations Open]
-  - [Nominations Update]
-  - [Nominations Close]
-- [Sign-Ups]
+- [Schedule](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Announcements.md#schedule)
 
 
-## Schedule Release
+## Schedule
 ```markdown
-# Arlathan eXchange #year# Schedule!
+# Dragon Age Polyshipping Exchange #year# Schedule!
 
 <@&946087296829124643> Hello everyone! We're happy to announce that we're back for the year with a schedule and some updates.
 
@@ -46,23 +41,5 @@ After updating, links should look like:
 
 → #update#
 
-<:soctumblr:947659438158925834>  https://arlathanxchange.tumblr.com/post/742608035406544896/arlathan-exchange-is-returning
-<:soctwitter:947659438158917693>  https://twitter.com/ArlathanXchange/status/1758970791557841349
-<:socbluesky:1208532546237898804>  https://bsky.app/profile/arlathanxchange.bsky.social/post/3klnfogj75m2j
-```
-
-## Nominations Open
-```markdown
-```
-
-## Nominations Update
-```markdown
-```
-
-## Nominations Close
-```markdown
-```
-
-## Sign-Ups Open
-```markdown
+<:soctumblr:947659438158925834>  https://dapolyshipping.tumblr.com/
 ```

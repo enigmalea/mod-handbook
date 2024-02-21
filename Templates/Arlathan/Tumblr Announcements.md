@@ -15,12 +15,27 @@ After updating, links should look like:
 # Contents
 
 - [Schedule Release](./Tumblr%20Announcements.md#schedule%20release)
-  - [Pre-Nominations Promo] 
+  - [Pre-Nominations Promo](./Tumblr%20Announcements.md#pre-nominations%20promo)
 - [Nominations]
   - [Nominations Open]
   - [Nominations Update]
   - [Nominations Close]
 - [Sign-Ups]
+  - [Sign-Ups Open]
+  - [Sign-Ups Promo]
+  - [Sign-Ups 72h Reminder]
+  - [Sign-Ups 48h Reminder]
+  - [Sign-Ups 24h Reminder]
+- [Assignment Release]
+  - [3 Week Reminder]
+  - [2 Week Reminder]
+  - [1 Week Reminder]
+  - [72h Reminder]
+  - [24h Reminder]
+- [Collection Live]
+- [Pinch Hits]
+- [Treatless List]
+- [Creator Reveals]
 
 ## Schedule Release
 ```markdown

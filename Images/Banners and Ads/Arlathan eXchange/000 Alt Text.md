@@ -8,3 +8,23 @@ Please use the alt text below when using images on social media.
 ```
 A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.
 ```
+
+## 24 Hour Reminder
+![](.Reminder24h.png)
+```
+alt text
+```
+
+
+## 48 Hour Reminder
+![](.Reminder48h.png)
+```
+alt text
+```
+
+
+## 72 Hour Reminder
+![](.Reminder72h.png)
+```
+alt text
+```

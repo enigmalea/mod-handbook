@@ -21,7 +21,7 @@ After updating, links should look like:
 # Contents
 
 - [Schedule](./Discord%20Promos.md#schedule)
-- [Nominations](./Discord%20Ads.md#nominations)
+- [Nominations](./Discord%20Promos.md#nominations)
 - [Sign-Ups](./Discord%20Promos.md#sign-ups)
 
 

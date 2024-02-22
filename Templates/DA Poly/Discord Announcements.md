@@ -20,7 +20,7 @@ After updating, links should look like:
 
 ## Schedule
 ```markdown
-# Dragon Age Polyshipping Exchange #year# Schedule!
+# DA Polyshipping Exchange #year# Schedule!
 
 <@&946087296829124643> Hello everyone! We're happy to announce that we're back for the year with a schedule and some updates.
 

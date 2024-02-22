@@ -20,12 +20,12 @@ After updating, links should look like:
 
 # Contents
 
-- [Schedule](./Discord%20Promos.md#schedule)
-- [Nominations](./Discord%20Promos.md#nominations)
-- [Sign-Ups](./Discord%20Promos.md#sign-ups)
+- [Pre-Nominations](./Discord%20Promos.md#pre-nominations)
+- [Nominations Open](./Discord%20Promos.md#nominations%20open)
+- [Sign-Ups Open](./Discord%20Promos.md#sign-ups%20open)
 
 
-## Schedule
+## Pre-Nominations
 ```markdown
 # Dragon Age Polyshipping　#Year#
 ## :sparkles: **This year's schedule is here!** :sparkles:
@@ -50,7 +50,7 @@ After updating, links should look like:
 ⤷ [_Tumblr_](<https://dapolyshipping.tumblr.com/>)
 ```
 
-## Nominations
+## Nominations Open
 ```markdown
 # Dragon Age Polyshipping　#Year#
 ## :sparkles: **Nominations are open!** :sparkles:
@@ -75,7 +75,7 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 ⤷ [_Tumblr_](<https://dapolyshipping.tumblr.com/>)
 ```
 
-## Sign-Ups
+## Sign-Ups Open
 ```markdown
 # Arlathan eXchange　#Year#
 ## :sparkles: __**SIGN-UPS ARE OPEN!**__ :sparkles:
@@ -84,12 +84,12 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 
 __**SIGN-UPS CLOSE:**__ #Discord Timestamp#
 
-[__**Requests**__](<https://autoao3app.fandom.tools/#/arlathanxchange2023/all>)
+[__**Requests**__](<AutoAO3 Link>)
 
-__**Approved Tags**__
-☆ **Nomination Spreadsheet:** <https://bit.ly/arlathan2023>
-☆ **On A03:** <https://archiveofourown.org/tag_sets/14455>
-☆ **On AutoAO3App:** <https://autoao3app.fandom.tools/#/arlathanxchange2023/tagset>
+**Where to View Approved Tags**
+☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)
+☆ [**AO3 Tagset**](<#Tagset Link#>)
+☆ [**AutoAO3App**](<#AutoAO3 Link#>)
 
 **Have questions?**
 ☆ Check out our [website](<https://dapolyshipping.neocities.org/>).

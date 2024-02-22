@@ -36,6 +36,7 @@ After updating, links should look like:
 - [Pinch Hits]
 - [Treatless List]
 - [Creator Reveals]
+- [Other Updates]
 
 ## Schedule Release
 ```markdown
@@ -79,9 +80,17 @@ The Hanged Man is an unofficial collective of Dragon Age fans who try to make a 
 Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
 
 **NOMINATIONS OPEN IN #x# WEEKS!**
-#[day, date, time ET](<https://everytimezone.com/#link#>)#
 
-_Visit [our website](<https://arlathanxchange.neocities.org/docs/intro>) to see the full schedule and details._
+▸ **Nominations Open:** #day, date, time ET#
+▸ **Nominations Close:** #day, date, time ET#
+▸ **Sign-Ups Open:** #day, date, time ET#
+▸ **Sign-Ups Close:** #day, date, time ET#
+▸ **Assignments Recieved:** #day, date, time ET#
+▸ **Works Due:** #day, date, time ET#
+▸ **Works Revealed:** #day, date, time ET#
+▸ **Creators Revealed:** #day, date, time ET#
+
+*Visit [our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the above schedule in your local time.*
 
 **Have questions?**
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).

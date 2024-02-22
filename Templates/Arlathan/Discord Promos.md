@@ -34,9 +34,15 @@ After updating, links should look like:
 Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
 
 **NOMINATIONS OPEN IN #x# WEEKS!**
-#Discord Timestamp#
 
-_Visit [our website](<https://arlathanxchange.neocities.org/docs/intro>) to see the full schedule and details._
+**Nominations Open:** #Discord Timestamp#
+**Nominations Close:** #Discord Timestamp#
+**Sign-Ups Open:** #Discord Timestamp#
+**Sign-Ups Close:** #Discord Timestamp#
+**Assignments Received:** #Discord Timestamp#
+**Works Due:** #Discord Timestamp#
+**Works Revealed:** #Discord Timestamp#
+**Creators Revealed:** #Discord Timestamp#
 
 **Have questions?**
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
@@ -77,6 +83,7 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 ⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
 ```
+
 ## Sign-Ups Open
 ```markdown
 # Arlathan eXchange　#Year#

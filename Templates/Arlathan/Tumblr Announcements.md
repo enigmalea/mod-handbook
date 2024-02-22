@@ -76,10 +76,12 @@ The Hanged Man is an unofficial collective of Dragon Age fans who try to make a 
 
 ## :sparkles: **Join us for the 2024 exchange** :sparkles:
 
-If you love elves, than we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
+If you love elves, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
 
 **NOMINATIONS OPEN IN #x# WEEKS!**
-#Discord Timestamp#
+#[day, date, time ET](<https://everytimezone.com/#link#>)#
+
+_Visit [our website](<https://arlathanxchange.neocities.org/docs/intro>) to see the full schedule and details._
 
 **Have questions?**
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).

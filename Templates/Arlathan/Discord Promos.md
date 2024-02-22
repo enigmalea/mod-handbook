@@ -20,32 +20,28 @@ After updating, links should look like:
 
 # Contents
 
-- [Schedule](./Discord%20Promos.md#schedule)
-- [Nominations](./Discord%20Promos.md#nominations)
-- [Sign-Ups](./Discord%20Promos.md#sign-ups)
+- [Pre-Nominations](./Discord%20Promos.md#pre-nominations)
+- [Nominations](./Discord%20Promos.md#nominations%20open)
+- [Sign-Ups](./Discord%20Promos.md#sign-ups%20open)
 
 
-## Schedule
+## Pre-Nominations
 ```markdown
-# Arlathan eXchange　#Year#
-## :sparkles: **This year's schedule is here!** :sparkles:
-_Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces._
+# Arlathan eXchange is returning!
 
-**Nominations Open:** #Discord Timestamp#
-**Nominations Close:** #Discord Timestamp#
-**Sign-Ups Open:** #Discord Timestamp#
-**Sign-Ups Close:** #Discord Timestamp#
-**Assignments Received:** #Discord Timestamp#
-**Works Due:** #Discord Timestamp#
-**Works Revealed:** #Discord Timestamp#
-**Creators Revealed:** #Discord Timestamp#
+## :sparkles: **Join us for the 2024 exchange** :sparkles:
+
+If you love elves, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
+
+**NOMINATIONS OPEN IN #x# WEEKS!**
+#Discord Timestamp#
 
 **Have questions?**
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
-☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
+☆ Join the [Discord](<https://discord.gg/F73NDYMeGC>).
 ☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
-  ⤷ Emailing :e_mail: arlathanxchange@gmail.com
+  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
 
 **Follow us:**
 ⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
@@ -53,7 +49,7 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 ⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
 ```
 
-## Nominations
+## Nominations Open
 ```markdown
 # Arlathan eXchange　#Year#
 ## :sparkles: **Nominations are open!** :sparkles:
@@ -68,18 +64,18 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 ☆ [**AutoAO3App**](<#AutoAO3 Link#>)
 
 **Have questions or need help?**
-☆ Check out the [tutorial](<https://arlathanxchange.neocities.org/docs/tutorials/nominate>).
-☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
+☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
+☆ Join the [Discord](<https://discord.gg/F73NDYMeGC>).
 ☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
-  ⤷ Emailing :e_mail: arlathanxchange@gmail.com
+  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
 
 **Follow us:**
 ⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 ⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
 ```
-## Sign-Ups
+## Sign-Ups Open
 ```markdown
 # Arlathan eXchange　#Year#
 ## :sparkles: __**SIGN-UPS ARE OPEN!**__ :sparkles:
@@ -96,12 +92,11 @@ __**Approved Tags**__
 ☆ **On AutoAO3App:** <https://autoao3app.fandom.tools/#/arlathanxchange2023/tagset>
 
 __**Have questions or need help?**__
-☆ Check out the Tutorial: <https://arlathanxchange.neocities.org/docs/tutorials/signups>
-☆ Or More FAQs: <https://arlathanxchange.neocities.org/docs/faqs>
-☆ Join the [Discord](<https://discord.com/invite/F73NDYMeGC>)
+☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
+☆ Join the [Discord](<https://discord.gg/F73NDYMeGC>).
 ☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
-  ⤷ Emailing :e_mail: arlathanxchange@gmail.com
+  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
 
 **Follow us:**
 ⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)

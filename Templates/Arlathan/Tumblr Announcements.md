@@ -14,8 +14,8 @@ After updating, links should look like:
 
 # Contents
 
-- [Schedule Release](./Tumblr%20Announcements.md#schedule%20release)
-  - [Pre-Nominations Promo](./Tumblr%20Announcements.md#pre-nominations%20promo)
+- [Schedule Release](./Tumblr%20Announcements.md#schedule-release)
+  - [Pre-Nominations Promo](./Tumblr%20Announcements.md#pre-nominations-promo)
 - [Nominations]
   - [Nominations Open]
   - [Nominations Update]

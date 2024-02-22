@@ -15,7 +15,7 @@ After updating, links should look like:
 
 # Contents
 
-- [Schedule Release](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Announcements.md#schedule%20release)
+- [Schedule Release](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Announcements.md#schedule-release)
 - [Nominations]
   - [Nominations Open]
   - [Nominations Update]

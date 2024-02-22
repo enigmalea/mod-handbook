@@ -21,8 +21,8 @@ After updating, links should look like:
 # Contents
 
 - [Pre-Nominations](./Discord%20Promos.md#pre-nominations)
-- [Nominations Open](./Discord%20Promos.md#nominations%20open)
-- [Sign-Ups Open](./Discord%20Promos.md#sign-ups%20open)
+- [Nominations Open](./Discord%20Promos.md#nominations-open)
+- [Sign-Ups Open](./Discord%20Promos.md#sign-ups-open)
 
 
 ## Pre-Nominations

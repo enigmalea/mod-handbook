@@ -6,7 +6,7 @@ share in other DA Discords as appropriate. Please be sure to follow the
 Discord's rules for advertising.
 
 When posting, upload the
-[Ad Banner](https://replit.com/@enigmalea/mod-handbook#Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif)
+[Ad Banner](./admain.gif)
 first.
 
 **To Update the Template:** Replace the full `#Placeholder#` with the expected

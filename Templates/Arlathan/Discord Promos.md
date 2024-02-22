@@ -36,6 +36,8 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 **NOMINATIONS OPEN IN #x# WEEKS!**
 #Discord Timestamp#
 
+_Visit [our website](<https://arlathanxchange.neocities.org/docs/intro>) to see the full schedule and details._
+
 **Have questions?**
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
 ☆ Join the [Discord](<https://discord.gg/F73NDYMeGC>).

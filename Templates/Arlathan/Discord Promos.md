@@ -31,7 +31,7 @@ After updating, links should look like:
 
 ## :sparkles: **Join us for the 2024 exchange** :sparkles:
 
-If you love elves, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
+Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
 
 **NOMINATIONS OPEN IN #x# WEEKS!**
 #Discord Timestamp#

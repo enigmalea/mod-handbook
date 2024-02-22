@@ -84,7 +84,7 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 
 __**SIGN-UPS CLOSE:**__ #Discord Timestamp#
 
-[__**Requests**__](<AutoAO3 Link>)
+[__**Requests**__](<#AutoAO3 Link#>)
 
 **Where to View Approved Tags**
 ☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)

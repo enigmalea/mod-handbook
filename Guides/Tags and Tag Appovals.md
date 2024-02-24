@@ -97,6 +97,19 @@ _For Arlathan eXchange and DA Poly Exchange:_
 - You can look up the AO3 canonical tags for characters by using [Tags Search](https://archiveofourown.org/tags/search). This is especially useful if you are questioning how the character is listed in a nominated tag.
 
   - If you find misspellings or duplicate tags, please send [AO3 support](https://archiveofourown.org/support) an message. Dragon Age tag wranglers are used to getting reports from me at this point.
+    - Note that it is not a duplicate tag unless the tags do not "roll-up" to the canonical tag. We always want to try to use the primary canonicaly accepted tag (i.e. Male Hawke and not Garrett Hawke)
 
 - If you are unsure about a character, use the
     [wiki](https://dragonage.fandom.com/wiki/Dragon_Age_Wiki) to determine race for eligibility for Arlathan eXchange, spelling of name, or other nomination details.
+
+## Pre-Loading Tags
+To preload tags:
+
+1. Click the "Batch Load" button on the tag set.
+2. Copy and paste the pre-loaded tags for the exchange into the "Batch Load Tag Associations" box.
+3. **BE SURE TO CLICK THE "Relationships Instead?" RADIO BUTTON.**
+4. Click the "Submit" button.
+
+```
+Dragon Age - All Media Types,Anders/The Iron Bull/Dorian Pavus/Cullen Rutherford/Solas,Anders/Dorian Pavus/Cullen Rutherford/Solas,Anders/The Iron Bull/Cullen Rutherford/Solas,Anders/The Iron Bull/Dorian Pavus/Solas,The Iron Bull/Dorian Pavus/Cullen Rutherford/Solas,Anders/Cullen Rutherford/Solas,Anders/Dorian Pavus/Solas,Anders/The Iron Bull/Solas,Dorian Pavus/Cullen Rutherford/Solas,The Iron Bull/Cullen Rutherford/Solas,The Iron Bull/Dorian Pavus/Solas,Anders/Solas,Cullen Rutherford/Solas,Dorian Pavus/Solas,The Iron Bull/Solas,Alistair/Cullen Rutherford/Female Surana,Alistair/Zevran Arainai/Female Brosca,Alistair/Zevran Arainai/Leliana/Morrigan/Female Surana,Anders/Female Hawke/Merrill (Dragon Age),Anders/Fenris/Dorian Pavus,Anders/Fenris/Female Hawke (Dragon Age),Anders/Fenris/Karl Thekla,Anders/Fenris/Male Hawke (Dragon Age),Anders/Fenris/Merrill (Dragon Age),Anders/Fenris/Nathaniel Howe,Anders/Fenris/Sebastian Vael,Anders/Male Lavellan/Dorian Pavus,Anders/Nathaniel Howe/Sigrun/Velanna,Anders/Zevran Arainai/Fenris,Arishok/Male Hawke/Merrill,Blackwall/Solas/Female Trevelyan,Cullen Rutherford/Solas/Female Trevelyan,Felassan/Female Lavellan/Solas (Dragon Age),Female Adaar/Female Cadash/Female Lavellan/Female Trevelyan,Female Aeducan/Alistair/Zevran Arainai,Female Hawke/Isabela/Merrill (Dragon Age),Female Lavellan/Cullen Rutherford/Solas,Female Mahariel/Female Surana/Female Tabris (Dragon Age),Jowan/Lily/Female Surana (Dragon Age),Male Aeducan/Anders/Zevran Arainai,Male Aeducan/Anders/Zevran Arainai/Nathaniel Howe,Nathaniel Howe/Sigrun/Velanna,The Iron Bull/Male Lavellan/Dorian Pavus,Zevran Arainai/Fenris/Female Surana,Zevran Arainai/Leliana/Female Surana,Zevran Arainai/Male Mahariel/Morrigan,Zevran Arainai/Nathaniel Howe/Female Surana
+```

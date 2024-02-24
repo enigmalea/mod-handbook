@@ -4,9 +4,16 @@
 
 [Mod Meeting | Feb 13 2024](https://docs.google.com/document/d/1vSATcUWGiRvJP6nxQugsHKTYsDofCTUSL74LcLG9jds/edit?usp=sharing)
 
-[Auto AO3 App](https://autoao3app.firebaseapp.com/#/arlathanxchange2024)
-[AO3 Collection](https://archiveofourown.org/collections/arlathanxchange2024)
+- [Auto AO3 App](https://autoao3app.firebaseapp.com/#/arlathanxchange2024)
+  - [Auto AO3 Nominations List](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)
+  - [Auto AO3 Requests](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/all)
+    
+- [AO3 Collection](https://archiveofourown.org/collections/arlathanxchange2024)
+  - [AO3 Tag Set](https://archiveofourown.org/tag_sets/18841)
+  - [AO3 Rules](https://archiveofourown.org/collections/arlathanxchange2024/profile#rules)
+  - [AO3 FAQ](https://archiveofourown.org/collections/arlathanxchange2024/profile#faq)
 
+  - [Nominations gSheet](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing)
 
 ## Notes
 

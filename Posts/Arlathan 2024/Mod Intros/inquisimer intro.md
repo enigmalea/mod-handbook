@@ -1,3 +1,9 @@
+```markdown
+# ☆ Mod Intro
+
+▸ Name:
+▸ Pronouns:
+
 I face-planted into the Dragon Age fandom back in 2021 after my best friend showed me a PowerPoint about how Solas broke their heart and I haven't left since. The community is what keeps me here and I'm thrilled to be part of events that keep that supporitve spirit of creation alive! 
 
 I'm a fanfiction writer and avid multishipper with enough OCs and world states that I need a spreadsheet to keep them organized. The gray areas between canon events are my playground and my favorite stories are canon divergence that *bend* the lore without *breaking* it. I'm a sucker for found family and sibling dynamics and I love when characters are complicated and messy. 

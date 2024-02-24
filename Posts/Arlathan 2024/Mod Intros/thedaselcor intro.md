@@ -1,3 +1,8 @@
+```markdown
+# ☆ Mod Intro
+
+▸ Name:
+▸ Pronouns:
 
 Well, with a name like ThedasElcor I clearly have no interest in the bioware fandom (humorous sarcasm). I joined Arlathan as a Hanged Man mod because these events are one of the few things that get me out of my rabbit hole and interacting with other people. 
 
@@ -10,3 +15,4 @@ I forget to check my socials  a lot, but you could theoretically find me on:
 - [Reddit](https://www.reddit.com/user/decalte)
 - [dreamwidth](https://thedaselcor.dreamwidth.org/)
 And, of course, you can always find me in several many fandom spaces on discord.
+```

@@ -29,11 +29,9 @@ After updating, links should look like:
 ```markdown
 # Arlathan eXchange is returning!
 
-## :sparkles: **Join us for the 2024 exchange** :sparkles:
+## :sparkles: **Join us for the #year# exchange** :sparkles:
 
 Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
-
-**NOMINATIONS OPEN IN #x# WEEKS!**
 
 **Nominations Open:** #Discord Timestamp#
 **Nominations Close:** #Discord Timestamp#
@@ -59,9 +57,9 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 
 ## Nominations Open
 ```markdown
-# Arlathan eXchange　#Year#
-## :sparkles: **Nominations are open!** :sparkles:
-### [**Nominate Here**](<#Tagset Link#>)
+# Arlathan eXchange　#Year# nominations are open!
+
+## :sparkles: [**Nominate Here**](<#Tagset Link#>) :sparkles:
 _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces._
 
 **NOMINATIONS CLOSE:** #Discord Timestamp#

@@ -16,11 +16,11 @@ After updating, links should look like:
 # Contents
 
 - [Schedule Release](https://github.com/enigmalea/mod-handbook/blob/Changes/Templates/Arlathan/Discord%20Announcements.md#schedule-release)
-- [Nominations]
+- Nominations
   - [Nominations Open]
   - [Nominations Update]
   - [Nominations Close]
-- [Sign-Ups]
+- Sign-Ups
 
 
 ## Schedule Release
@@ -29,7 +29,7 @@ After updating, links should look like:
 
 <@&946087296829124643> Hello everyone! We're happy to announce that we're back for the year with a schedule and some updates.
 
-### s c h e d u l e
+## :sparkles: SCHEDULE :sparkles: 
 
 **Nominations Open:** #Discord Timestamp#
 **Nominations Close:** #Discord Timestamp#
@@ -40,19 +40,40 @@ After updating, links should look like:
 **Works Revealed:** #Discord Timestamp#
 **Creators Revealed:** #Discord Timestamp#
 
-### c h a n g e s  a n d  u p d a t e s
+### CHANGES AND UPDATES
 
 → #update#
 
 → #update#
 
-<:soctumblr:947659438158925834>  https://arlathanxchange.tumblr.com/post/742608035406544896/arlathan-exchange-is-returning
-<:soctwitter:947659438158917693>  https://twitter.com/ArlathanXchange/status/1758970791557841349
-<:socbluesky:1208532546237898804>  https://bsky.app/profile/arlathanxchange.bsky.social/post/3klnfogj75m2j
+<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
+<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ```
 
 ## Nominations Open
 ```markdown
+# Nominations are open!
+
+<@&946087296829124643> Nominations are officially open! Remember, all nominated tags **must** feature an elven character.
+
+## :sparkles: [CLICK HERE TO NOMINATE YOUR TAGS!](#tagset link#) :sparkles:
+
+### Nominations close: #Discord Timestamp#
+
+**__Where to View Nominations__**
+☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)
+☆ [**AO3 Tagset**](<#Tagset Link#>)
+☆ [**AutoAO3App**](<#AutoAO3 Link#>)
+
+**__Have questions or need help?__**
+☆ [Check out the nominations tutorial](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
+☆ Ask any of the @mods or DM one of us here!
+☆ Or contact us by:
+  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
+  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
+
+<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
+<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ```
 
 ## Nominations Update

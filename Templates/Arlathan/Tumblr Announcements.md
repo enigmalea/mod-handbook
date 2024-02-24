@@ -71,10 +71,8 @@ The Hanged Man is an unofficial collective of Dragon Age fans who try to make a 
 
 ## Pre-Nominations Promo
 ```markdown
-# Arlathan eXchange is returning!
-
 ![](<#meme image link#>)
-
+# Arlathan eXchange is returning!
 ## ✨ **Join us for the #year# exchange!** ✨
 
 Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
@@ -105,10 +103,10 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 
 ## Nominations Open
 ```markdown
-# Nominations Are Open!
-
 ![](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
 
+# Nominations Are Open!
+ㅤㅤ ㅤ 
 ## ✨ [CLICK HERE TO NOMINATE YOUR TAGS!](#tagset link#) ✨
 
 ▸ **Nominations Close:** #day, date, time ET#

@@ -111,7 +111,7 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 
 ▸ **Nominations Close:** #day, date, time ET#
 
-_[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the above schedule in your local time._
+_[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the full schedule in your local time._
 
 To View Nominated Tags: [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)  
 

@@ -1,4 +1,4 @@
-# 2024 Discord Announcements
+posted: Feb 17, 2024
 
 ## Schedule
 ```markdown

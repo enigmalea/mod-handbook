@@ -16,11 +16,11 @@ After updating, links should look like:
 
 - [Schedule Release](./Tumblr%20Announcements.md#schedule-release)
   - [Pre-Nominations Promo](./Tumblr%20Announcements.md#pre-nominations-promo)
-- [Nominations]
-  - [Nominations Open]
-  - [Nominations Update]
-  - [Nominations Close]
-- [Sign-Ups]
+- **Nominations**
+  - [Nominations Open](./Tumblr%20Announcements.md#nominations-open)
+  - [Nominations Update](./Tumblr%20Announcements.md#nominations-update)
+  - [Nominations Close](./Tumblr%20Announcements.md#nominations-close)
+- **Sign-Ups**
   - [Sign-Ups Open]
   - [Sign-Ups Promo]
   - [Sign-Ups 72h Reminder]
@@ -42,9 +42,9 @@ After updating, links should look like:
 ```markdown
 # Arlathan eXchange is returning!
 
-![A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
+![](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
 
-## IMPORTANT DATES
+## ✨ IMPORTANT DATES  ✨
 
 ▸ **Nominations Open:** #day, date, time ET#
 ▸ **Nominations Close:** #day, date, time ET#
@@ -55,7 +55,7 @@ After updating, links should look like:
 ▸ **Works Revealed:** #day, date, time ET#
 ▸ **Creators Revealed:** #day, date, time ET#
 
-*Visit [our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the above schedule in your local time.*
+*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the above schedule in your local time.*
 
 ## NOMINATIONS OPEN IN #x weeks#
 
@@ -73,9 +73,9 @@ The Hanged Man is an unofficial collective of Dragon Age fans who try to make a 
 ```markdown
 # Arlathan eXchange is returning!
 
-![](<#meme image#>)
+![](<#meme image link#>)
 
-## :sparkles: **Join us for the 2024 exchange** :sparkles:
+## ✨ **Join us for the #year# exchange!** ✨
 
 Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
 
@@ -90,23 +90,42 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 ▸ **Works Revealed:** #day, date, time ET#
 ▸ **Creators Revealed:** #day, date, time ET#
 
-*Visit [our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the above schedule in your local time.*
+*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the above schedule in your local time.*
 
-**Have questions?**
-☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
-☆ Join the Discord linked on our website.
-☆ Or contact us by:
-  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
-  ⤷ Emailing :e_mail: arlathanxchange@gmail.com.
+## ☆ MORE INFORMATION
 
-**Follow us:**
-⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
-⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
-⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
+[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs)
+
+## ☆ CONTACT
+
+[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | email: arlathanxchange@gmail.com
+
+*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*
 ```
 
 ## Nominations Open
 ```markdown
+# Nominations Are Open!
+
+![](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
+
+## ✨ [CLICK HERE TO NOMINATE YOUR TAGS!](#tagset link#) ✨
+
+▸ **Nominations Close:** #day, date, time ET#
+
+_[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the above schedule in your local time._
+
+To View Nominated Tags: [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)  
+
+## ☆ MORE INFORMATION
+
+[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [how to nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate/)
+
+## ☆ CONTACT
+
+[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
+
+*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*
 ```
 
 ## Nominations Update

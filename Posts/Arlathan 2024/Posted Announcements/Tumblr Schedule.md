@@ -1,5 +1,7 @@
 # 2024 Tumblr Announcements
 
+posted: Feb 17, 2024
+
 ## Schedule
 ```markdown
 # Arlathan eXchange is returning!

@@ -4,6 +4,10 @@
 
 [Mod Meeting | Feb 13 2024](https://docs.google.com/document/d/1vSATcUWGiRvJP6nxQugsHKTYsDofCTUSL74LcLG9jds/edit?usp=sharing)
 
+[Auto AO3 App](https://autoao3app.firebaseapp.com/#/arlathanxchange2024)
+[AO3 Collection](https://archiveofourown.org/collections/arlathanxchange2024)
+
+
 ## Notes
 
 ### Schedule

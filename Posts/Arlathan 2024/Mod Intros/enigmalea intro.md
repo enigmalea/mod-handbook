@@ -1,8 +1,8 @@
 ```markdown
 # ☆ Mod Intro
 
-▸ Name:
-▸ Pronouns:
+▸ Name: Enigmalea 
+▸ Pronouns: any
 
 I'm a fandom old who's been involved in internet fandom in some shape or form since right around the time the internet became available for home use in the ancient days. I took a long break from fandom, but when I finally came back in earnest around 2019, I threw myself wholeheartedly into the DA fandom.
 

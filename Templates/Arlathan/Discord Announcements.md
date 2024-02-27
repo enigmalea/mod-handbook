@@ -17,11 +17,10 @@ After updating, links should look like:
 
 - [Schedule Release](./Discord%20Announcements.md#schedule-release)
 - Nominations
-  - [Nominations Open]
-  - [Nominations Update]
+  - [Nominations Open](./Discord%20Announcements.md#nominations-open)
+  - [Nominations Update](./Discord%20Announcements.md#nominations-update)
   - [Nominations Close]
 - Sign-Ups
-
 
 ## Schedule Release
 ```markdown
@@ -78,9 +77,9 @@ After updating, links should look like:
 
 ## Nominations Update
 ```markdown
-## <@&946087296829124643> Nominations Update!
+# <@&946087296829124643>: Nominations Update!
 
-:sparkles: There are currently **#x# approved tags** :sparkles:
+## :sparkles: There are currently **#x# approved tags** :sparkles:
 ☆ View Nominated Tags: [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)  
 
 **__Outstanding tag errors that need correction:__**
@@ -89,6 +88,8 @@ After updating, links should look like:
 
 - *#pairing or tag#*
 > #correction required#
+
+**Nominations close:** #Discord Timestamp#
 
 <:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 <:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)

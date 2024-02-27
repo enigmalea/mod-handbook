@@ -1,8 +1,8 @@
 ```markdown
 # ☆ Mod Intro
 
-▸ Name:
-▸ Pronouns:
+▸ Name: ThedasElcor
+▸ Pronouns: he/him
 
 Well, with a name like ThedasElcor I clearly have no interest in the bioware fandom (humorous sarcasm). I joined Arlathan as a Hanged Man mod because these events are one of the few things that get me out of my rabbit hole and interacting with other people. 
 

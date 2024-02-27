@@ -1,8 +1,8 @@
 ```markdown
 # ☆ Mod Intro
 
-▸ Name:
-▸ Pronouns:
+▸ Name: Fox
+▸ Pronouns: she/her
 
 I have loved Dragon Age since Origins was released, but it wasn't until 2019 - after replaying Inquisition - that I was lured to take my first steps into the fandom. From that point on, Dragon Age has been my one true inspiration and obsession. 
 

@@ -1,8 +1,8 @@
 ```markdown
 # ☆ Mod Intro
 
-▸ Name:
-▸ Pronouns:
+▸ Name: Mer
+▸ Pronouns: she/her
 
 I face-planted into the Dragon Age fandom back in 2021 after my best friend showed me a PowerPoint about how Solas broke their heart and I haven't left since. The community is what keeps me here and I'm thrilled to be part of events that keep that supporitve spirit of creation alive! 
 

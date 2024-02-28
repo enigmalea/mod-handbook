@@ -21,7 +21,7 @@ After updating, links should look like:
   - [Nominations Update](./Tumblr%20Announcements.md#nominations-update)
   - [Nominations Close](./Tumblr%20Announcements.md#nominations-close)
 - **Sign-Ups**
-  - [Sign-Ups Open]
+  - [Sign-Ups Open](./Tumblr%20Announcements.md#sign-ups-open)
   - [Sign-Ups Promo]
   - [Sign-Ups 72h Reminder]
   - [Sign-Ups 48h Reminder]
@@ -98,22 +98,22 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 
 [ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | email: arlathanxchange@gmail.com
 
-*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*
+<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
 
 ## Nominations Open
 ```markdown
+# Nominations Are Open!
+
 ![](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
 
-# Nominations Are Open!
-ㅤㅤ ㅤ 
-## ✨ [CLICK HERE TO NOMINATE YOUR TAGS!](#tagset link#) ✨
+## ✨ [CLICK HERE TO NOMINATE YOUR TAGS!](#link#) ✨
 
 ▸ **Nominations Close:** #day, date, time ET#
 
-_[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the full schedule in your local time._
+<small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
 
-To View Nominated Tags: [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)  
+**View Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)  
 
 ## ☆ MORE INFORMATION
 
@@ -123,11 +123,13 @@ To View Nominated Tags: [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
 
 [ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
 
-*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*
+<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
 
 ## Nominations Update
 ```markdown
+![](#banner image link (ad main/48h/24h)#)
+
 # Nominations Update!
 
 ## ✨ There are currently **#x# approved tags** ✨
@@ -139,10 +141,19 @@ To View Nominated Tags: [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
 - *#pairing or tag#*
 > #correction required#
 
-▸ **Nominations close:** #day, date, time ET#
+**To Make Corrections:**
+> ▸ Go to the [#Year# Tag Set](#link#).
+> ▸ Click the *My Nominations* button on the top right of the page under the menu bar.
+> ▸ Click the *Edit* button on the top right of the page under the menu bar.
+> ▸ Click the **X** to the right of the tag, and reenter the corrected tag in the text box that appears.
+> ▸ Click the *Submit* button at the bottom of the page. 
 
-## ☆ VIEW NOMINATED TAGS
-[gSheets](#gDoc link#) | [ao3](#ao3 link#) | [autoao3app](#autoao3 link#)  
+**View Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)  
+
+## REMINDER
+
+**Nominations Close:** #day, date, time ET#
+<small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
 
 ## ☆ MORE INFORMATION
 
@@ -152,13 +163,60 @@ To View Nominated Tags: [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
 
 [ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
 
-*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*
+<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
 
 ## Nominations Close
 ```markdown
+# Nominations Have Closed!
+
+![](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
+
+## ✨ **Final Tag Set:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#) ✨
+
+## Up Next:
+# **Sign-Ups Open** #day, date, time ET#
+
+*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*
+
+**If you have questions before signing up, you can:**
+
+- [check out our sign-up tutorial](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+- [learn about exchange letters](https://arlathanxchange.neocities.org/docs/tutorials/letters/)
+- [peruse our FAQs](https://arlathanxchange.neocities.org/docs/faqs)
+
+Or, contact the mods using one of the methods listed below!
+
+## ☆ CONTACT
+
+[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
+
+<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
 
 ## Sign-Ups Open
 ```markdown
+# Sign-Ups Are Open!
+
+![A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
+
+## ✨ [**CLICK HERE TO SIGN UP!**](#link#) ✨
+
+▸ **Sign-Ups Close:** #day, date, time ET#
+
+<small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
+
+> **Requests:** [ao3](#link#) | [autoao3app](#link#)
+>ㅤㅤ ㅤ ㅤ
+> **Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
+
+## ☆ MORE INFORMATION
+
+[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [about exchange letters](https://arlathanxchange.neocities.org/docs/tutorials/letters/) | [how to sign up](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+
+## ☆ CONTACT
+
+[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
+
+<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```

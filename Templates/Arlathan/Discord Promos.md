@@ -59,10 +59,10 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 ```markdown
 # Arlathan eXchange　#Year# nominations are open!
 
-## :sparkles: [**Nominate Here**](<#Tagset Link#>) :sparkles:
+## :sparkles: [**NOMINATE HERE**](<#Tagset Link#>) :sparkles:
 _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces._
 
-**NOMINATIONS CLOSE:** #Discord Timestamp#
+**Nominations close:** #Discord Timestamp#
 
 **Where to View Nominations**
 ☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)
@@ -70,6 +70,7 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 ☆ [**AutoAO3App**](<#AutoAO3 Link#>)
 
 **Have questions or need help?**
+☆ [Check out the nominations tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
 ☆ Join the [Discord](<https://discord.gg/F73NDYMeGC>).
 ☆ Or contact us by:
@@ -84,21 +85,21 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 
 ## Sign-Ups Open
 ```markdown
-# Arlathan eXchange　#Year#
-## :sparkles: __**SIGN-UPS ARE OPEN!**__ :sparkles:
-### [**Sign-Up Here**](<#Sign-Up Link#>)
+# Arlathan eXchange　#Year# sign ups are open!
+
+## :sparkles: [**SIGN-UP HERE!**](<#Sign-Up Link#>) :sparkles:
 _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces._
 
-__**SIGN-UPS CLOSE:**__ #Discord Timestamp#
+__**Sign-ups close:**__ #Discord Timestamp#
 
-[__**Requests**__](<#AutoAO3 Link#>)
-
-**Where to View Approved Tags**
-☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)
-☆ [**AO3 Tagset**](<#Tagset Link#>)
+**Where to View Requests**
+☆ [**AO3**](<#Tagset Link#>)
 ☆ [**AutoAO3App**](<#AutoAO3 Link#>)
 
+**View Nominated Tags:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset) 
+
 __**Have questions or need help?**__
+☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
 ☆ Join the [Discord](<https://discord.gg/F73NDYMeGC>).
 ☆ Or contact us by:

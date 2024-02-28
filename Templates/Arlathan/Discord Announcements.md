@@ -80,6 +80,7 @@ After updating, links should look like:
 # <@&946087296829124643>: Nominations Update!
 
 ## :sparkles: There are currently **#x# approved tags** :sparkles:
+
 ☆ View Nominated Tags: [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)  
 
 **__Outstanding tag errors that need correction:__**
@@ -90,6 +91,13 @@ After updating, links should look like:
 > #correction required#
 
 **Nominations close:** #Discord Timestamp#
+
+**__Have questions or need help?__**
+☆ [Check out the nominations tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
+☆ Ask any of the <@&946087297168838690> or DM one of us here!
+☆ Or contact us by:
+  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
+  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
 
 <:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 <:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)

@@ -95,7 +95,7 @@ __**Sign-ups close:**__ #Discord Timestamp#
 [**View Requests**](#link#)
   ⤷ [how to filter autoao3app](https://arlathanxchange.neocities.org/docs/tutorials/autoao3)
   
-**View Nominated Tags:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset) 
+**View Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
 
 __**Have questions or need help?**__
 ☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)

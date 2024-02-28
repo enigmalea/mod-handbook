@@ -39,6 +39,7 @@ After updating, links should look like:
 - [Other Updates]
 
 ## Schedule Release
+[back to contents](./Tumblr%20Announcements.md#contents)
 ```markdown
 # Arlathan eXchange is returning!
 
@@ -70,6 +71,7 @@ The Hanged Man is an unofficial collective of Dragon Age fans who try to make a 
 ```
 
 ## Pre-Nominations Promo
+[back to contents](./Tumblr%20Announcements.md#contents)
 ```markdown
 ![](<#meme image link#>)
 # Arlathan eXchange is returning!
@@ -102,6 +104,7 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 ```
 
 ## Nominations Open
+[back to contents](./Tumblr%20Announcements.md#contents)
 ```markdown
 # Nominations Are Open!
 
@@ -127,6 +130,7 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 ```
 
 ## Nominations Update
+[back to contents](./Tumblr%20Announcements.md#contents)
 ```markdown
 ![](#banner image link (ad main/48h/24h)#)
 
@@ -167,6 +171,7 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 ```
 
 ## Nominations Close
+[back to contents](./Tumblr%20Announcements.md#contents)
 ```markdown
 # Nominations Have Closed!
 
@@ -195,6 +200,7 @@ Or, contact the mods using one of the methods listed below!
 ```
 
 ## Sign-Ups Open
+[back to contents](./Tumblr%20Announcements.md#contents)
 ```markdown
 # Sign-Ups Are Open!
 

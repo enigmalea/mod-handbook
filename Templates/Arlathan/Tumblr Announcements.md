@@ -128,6 +128,31 @@ To View Nominated Tags: [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
 
 ## Nominations Update
 ```markdown
+# Nominations Update!
+
+## ✨ There are currently **#x# approved tags** ✨
+
+**Outstanding tag errors that need correction:**
+- *#pairing or tag#*
+> #correction required#
+
+- *#pairing or tag#*
+> #correction required#
+
+▸ **Nominations close:** #day, date, time ET#
+
+## ☆ VIEW NOMINATED TAGS
+[gSheets](#gDoc link#) | [ao3](#ao3 link#) | [autoao3app](#autoao3 link#)  
+
+## ☆ MORE INFORMATION
+
+[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [how to nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate/)
+
+## ☆ CONTACT
+
+[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
+
+*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*
 ```
 
 ## Nominations Close

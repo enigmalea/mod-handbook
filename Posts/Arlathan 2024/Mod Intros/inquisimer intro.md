@@ -1,5 +1,9 @@
 ```markdown
-# ☆ Mod Intro
+# ✨ Meet the Mods ✨
+
+And now, to introduce the first of our new mods!
+
+## ☆ Mod Intro
 
 ▸ Name: Mer
 ▸ Pronouns: she/her
@@ -16,3 +20,6 @@ You can find or follow me on:
 - [tumblr](https://inquisimer.tumblr.com/)
 - [AO3](https://archiveofourown.org/users/inquisimer/profile)
 - or floating around any number of Dragon Age Discord servers!
+
+<small>[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [mod team & philosophy](https://arlathanxchange.neocities.org/mod#mod-team)</small>
+```

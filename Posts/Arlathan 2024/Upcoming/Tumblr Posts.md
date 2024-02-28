@@ -53,6 +53,4 @@ To View Nominated Tags: [gSheets](https://docs.google.com/spreadsheets/d/1m8luds
 [ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
 
 *Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*
-
-
 ```

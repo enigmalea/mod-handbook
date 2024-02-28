@@ -1,5 +1,9 @@
 ```markdown
-# ☆ Mod Intro
+# ✨ Meet the Mods ✨
+
+Please welcome another one of our new mods!
+
+## ☆ Mod Intro
 
 ▸ Name: Sterling, but Plisuu is fine!
 ▸ Pronouns: he/him
@@ -16,4 +20,6 @@ You can find or follow me on:
 - [Tumblr](https://plisuu.tumblr.com/)
 - [Ao3](https://archiveofourown.org/users/Plisuu)
 I can also be found floating around a number of Dragon Age Discord servers!
+
+<small>[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [mod team & philosophy](https://arlathanxchange.neocities.org/mod#mod-team)</small>
 ```

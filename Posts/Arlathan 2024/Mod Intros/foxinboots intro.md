@@ -1,5 +1,9 @@
 ```markdown
-# ☆ Mod Intro
+# ✨ Meet the Mods ✨
+
+Introducing another familiar face on our mod team!
+
+## ☆ Mod Intro
 
 ▸ Name: Fox
 ▸ Pronouns: she/her
@@ -16,3 +20,6 @@ You can find or follow me on:
 - [tumblr](https://thefoxinboots.tumblr.com)
 - [ao3](https://archiveofourown.org/users/FoxInBoots)
 - [bluesky](https://foxinboots.bsky.social)
+
+<small>[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [mod team & philosophy](https://arlathanxchange.neocities.org/mod#mod-team)</small>
+```

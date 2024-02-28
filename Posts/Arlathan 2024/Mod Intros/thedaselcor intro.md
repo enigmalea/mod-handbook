@@ -1,5 +1,9 @@
 ```markdown
-# ☆ Mod Intro
+# ✨ Meet the Mods ✨
+
+Please welcome our third new mod!
+
+## ☆ Mod Intro
 
 ▸ Name: ThedasElcor
 ▸ Pronouns: he/him
@@ -15,4 +19,6 @@ I forget to check my socials  a lot, but you could theoretically find me on:
 - [Reddit](https://www.reddit.com/user/decalte)
 - [dreamwidth](https://thedaselcor.dreamwidth.org/)
 And, of course, you can always find me in several many fandom spaces on discord.
+
+<small>[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [mod team & philosophy](https://arlathanxchange.neocities.org/mod#mod-team)</small>
 ```

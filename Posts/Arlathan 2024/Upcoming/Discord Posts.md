@@ -2,9 +2,8 @@
 
 ## Nominations Open
 ```markdown
-# Nominations are open!
-
-<@&946087296829124643> Nominations are officially open! Remember, all nominated tags **must** feature an elven character.
+# <@&946087296829124643>: Nominations are open!
+*Remember, all nominated tags **must** feature an elven character.*
 
 ## :sparkles: [CLICK HERE TO NOMINATE YOUR TAGS!](https://archiveofourown.org/tag_sets/18841) :sparkles:
 

@@ -206,13 +206,14 @@ Or, contact the mods using one of the methods listed below!
 
 <small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
 
-> **Requests:** [ao3](#link#) | [autoao3app](#link#)
+> [**Requests**](#link#) [(how to filter autoao3app)](https://arlathanxchange.neocities.org/docs/tutorials/autoao3) 
+> <small>⤷ [how to filter autoao3app](https://arlathanxchange.neocities.org/docs/tutorials/autoao3)</small>
 >ㅤㅤ ㅤ ㅤ
 > **Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
 
 ## ☆ MORE INFORMATION
 
-[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [about exchange letters](https://arlathanxchange.neocities.org/docs/tutorials/letters/) | [how to sign up](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [about exchange letters](https://arlathanxchange.neocities.org/docs/tutorials/letters/) | [how to sign up](https://arlathanxchange.neocities.org/docs/tutorials/signups) 
 
 ## ☆ CONTACT
 

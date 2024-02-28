@@ -49,7 +49,7 @@
 
 ## ☆ REMINDER
 
-**Nominations close:** [Sunday, March 24, 2024 at 12pm ET](https://everytimezone.com/s/37d1e1df)
+**Nominations Close:** [Sunday, March 24, 2024 at 12pm ET](https://everytimezone.com/s/37d1e1df)
 <small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
 
 ## ☆ MORE INFORMATION
@@ -101,7 +101,8 @@ Or, contact the mods using one of the methods listed below!
 
 <small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
 
-> **Requests:** [ao3](https://archiveofourown.org/collections/arlathanxchange2024/requests) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/all)
+> [**Requests**](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/all) 
+> <small>⤷ [how to filter autoao3app](https://arlathanxchange.neocities.org/docs/tutorials/autoao3)</small>
 >ㅤㅤ ㅤ ㅤ
 > **Nominated Tags:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)
 

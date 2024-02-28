@@ -92,10 +92,9 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 
 __**Sign-ups close:**__ #Discord Timestamp#
 
-**Where to View Requests**
-☆ [**AO3**](<#Tagset Link#>)
-☆ [**AutoAO3App**](<#AutoAO3 Link#>)
-
+[**View Requests**](#link#)
+  ⤷ [how to filter autoao3app](https://arlathanxchange.neocities.org/docs/tutorials/autoao3)
+  
 **View Nominated Tags:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset) 
 
 __**Have questions or need help?**__

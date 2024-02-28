@@ -51,9 +51,8 @@ After updating, links should look like:
 
 ## Nominations Open
 ```markdown
-# Nominations are open!
-
-<@&946087296829124643> Nominations are officially open! Remember, all nominated tags **must** feature an elven character.
+# <@&946087296829124643>: Nominations are open!
+*Remember, all nominated tags **must** feature an elven character.*
 
 ## :sparkles: [CLICK HERE TO NOMINATE YOUR TAGS!](#tagset link#) :sparkles:
 
@@ -105,8 +104,30 @@ After updating, links should look like:
 
 ## Nominations Close
 ```markdown
+# <@&946087296829124643>: Nominations have closed!
+
+**__Final Tag Set__**
+☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)
+☆ [**AO3 Tagset**](<#Tagset Link#>)
+☆ [**AutoAO3App**](<#AutoAO3 Link#>)
+
+## :sparkles: SIGN UPS OPEN TOMORROW! #discord time stamp# :sparkles:
+
+**__Have questions or need help?__**
+☆ Ask any of the <@&946087297168838690> or DM one of us here!
+☆ Or contact us by:
+  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
+  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
+
+<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
+<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ```
 
 ## Sign-Ups Open
 ```markdown
+# <@&946087296829124643>: Sign-ups are open!
+
+## :sparkles: [CLICK HERE TO SIGN UP!](#tagset link#) :sparkles:
+
+### Sign-ups close: #Discord Timestamp#
 ```

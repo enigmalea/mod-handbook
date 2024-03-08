@@ -227,3 +227,34 @@ Or, contact the mods using one of the methods listed below!
 
 <small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
+
+## General Updates
+```markdown
+# Important Changes and Updates!
+
+![A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
+
+##anouncement text##
+
+### ☆ *#change category#*
+
+> → #changes#
+>
+> → #changes#
+
+### ☆ *other changes*
+
+> → #changes#
+> 
+> → #changes#
+
+## ☆ MORE INFORMATION
+
+[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs)
+
+## ☆ CONTACT
+
+[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
+
+<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
+```

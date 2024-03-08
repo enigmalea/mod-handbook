@@ -160,3 +160,23 @@ After updating, links should look like:
 ```
 
 ## General Updates
+```markdown
+# Important Changes and Updates!
+
+<@&946087296829124643>: #announcement text#
+
+### ☆ *#change category#*
+
+> → #changes#
+>
+> → #changes#
+
+### ☆ *other changes*
+
+> → #changes#
+> 
+> → #changes#
+
+<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
+<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
+```

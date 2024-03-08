@@ -15,11 +15,12 @@
 ☆ [**AutoAO3App**](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)
 
 **__Have questions or need help?__**
-☆ [Check out the nominations tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
-☆ Ask any of the <@&946087297168838690> or DM one of us here!
+☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+☆ Ask any of the <@&946087297168838690> for general exhange questions.
 ☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
   ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
+  *please contact us via email or the [official extention form](https://arlathanxchange.neocities.org/extension/) regarding individual circumstances.*
 
 <:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 <:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
@@ -43,11 +44,12 @@
 ## **Nominations close:** <t:1711296000:F>
 
 **__Have questions or need help?__**
-☆ [Check out the nominations tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
-☆ Ask any of the <@&946087297168838690> or DM one of us here!
+☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+☆ Ask any of the <@&946087297168838690> for general exhange questions.
 ☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
   ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
+  *please contact us via email or the [official extention form](https://arlathanxchange.neocities.org/extension/) regarding individual circumstances.*
 
 <:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 <:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
@@ -65,10 +67,12 @@
 ## :sparkles: SIGN UPS OPEN TOMORROW! <t:1711296000:F> :sparkles:
 
 **__Have questions or need help?__**
-☆ Ask any of the <@&946087297168838690> or DM one of us here!
+☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+☆ Ask any of the <@&946087297168838690> for general exhange questions.
 ☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
   ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
+  *please contact us via email or the [official extention form](https://arlathanxchange.neocities.org/extension/) regarding individual circumstances.*
 
 <:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 <:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)

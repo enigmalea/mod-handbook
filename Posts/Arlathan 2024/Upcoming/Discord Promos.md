@@ -1,46 +1,27 @@
-# Arlathan Discord Ads
-
-Below are templates for ads we use for advertising various stages of the
-exchange in **other DA Discords**. We tend to update these general ads yearly and
-share in other DA Discords as appropriate. Please be sure to follow the
-Discord's rules for advertising.
+# Discord Ads (for other servers)
 
 When posting, upload the
 [Ad Banner](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif)
 first.
 
-**To Update the Template:** Replace the full `#Placeholder#` with the expected
-text. links are wrapped in angle brackets `< >` to prevent embeds from posting.
-
-After updating, links should look like:
-
+## Schedule
 ```markdown
-[I am a link.](https://url.com)
-```
+[Ad Banner](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif)
 
-# Contents
-
-- [Pre-Nominations](./Discord%20Promos.md#pre-nominations)
-- [Nominations Open](./Discord%20Promos.md#nominations-open)
-- [Sign-Ups Open](./Discord%20Promos.md#sign-ups-open)
-
-
-## Pre-Nominations
-```markdown
 # Arlathan eXchange is returning!
 
-## :sparkles: **Join us for the #year# exchange** :sparkles:
+## :sparkles: **Join us for the 2024 exchange!** :sparkles:
 
 Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces that focus on elfy goodness, whether that’s Dalish, city, or even Evanuris.
 
-**Nominations Open:** #Discord Timestamp#
-**Nominations Close:** #Discord Timestamp#
-**Sign-Ups Open:** #Discord Timestamp#
-**Sign-Ups Close:** #Discord Timestamp#
-**Assignments Received:** #Discord Timestamp#
-**Works Due:** #Discord Timestamp#
-**Works Revealed:** #Discord Timestamp#
-**Creators Revealed:** #Discord Timestamp#
+**Nominations Open:** <t:1710086400:F> 
+**Nominations Close:** <t:1711296000:F>
+**Sign-Ups Open:** <t:1711296000:F>
+**Sign-Ups Close:** **<t:1712505600:F>
+**Assignments Out:** <t:1712707200:F> (or earlier!)
+**Works Due:** <t:1716134400:F>
+**Works Revealed:** <t:1716739200:F>
+**Creators Revealed:** <t:1717344000:F>
 
 **Have questions?**
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
@@ -57,17 +38,17 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 
 ## Nominations Open
 ```markdown
-# Arlathan eXchange　#Year# nominations are open!
+# Arlathan eXchange 2024 nominations are open!
 
-## :sparkles: [**NOMINATE HERE**](<#Tagset Link#>) :sparkles:
+## :sparkles: [**NOMINATE HERE!**](https://archiveofourown.org/tag_sets/18841) :sparkles:
 _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces._
 
-**Nominations close:** #Discord Timestamp#
+**Nominations close:** <t:1711296000:F>
 
 **Where to View Nominations**
-☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)
-☆ [**AO3 Tagset**](<#Tagset Link#>)
-☆ [**AutoAO3App**](<#AutoAO3 Link#>)
+☆ [**Nomination Spreadsheet**](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing)
+☆ [**AO3 Tagset**](https://archiveofourown.org/tag_sets/18841)
+☆ [**AutoAO3App**](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)
 
 **Have questions or need help?**
 ☆ [Check out the nominations tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
@@ -85,17 +66,17 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 
 ## Sign-Ups Open
 ```markdown
-# Arlathan eXchange　#Year# sign ups are open!
+# Arlathan eXchange　2024 sign ups are open!
 
-## :sparkles: [**SIGN-UP HERE!**](<#Sign-Up Link#>) :sparkles:
+## :sparkles: [**SIGN-UP HERE!**](https://archiveofourown.org/collections/arlathanxchange2024/signups/new) :sparkles:
 _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic, ships, or solo/introspective pieces._
 
-__**Sign-ups close:**__ #Discord Timestamp#
+__**Sign-ups close:**__ <t:1712505600:F>
 
-[**View Requests**](#link#)
+[**View Requests**](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)
   ⤷ [how to filter autoao3app](https://arlathanxchange.neocities.org/docs/tutorials/autoao3)
-  
-**View Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
+
+**View Nominated Tags:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)
 
 __**Have questions or need help?**__
 ☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)
@@ -109,4 +90,3 @@ __**Have questions or need help?**__
 ⤷ [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 ⤷ [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ⤷ [_Blog_](<https://arlathanxchange.neocities.org/blog/>)
-```

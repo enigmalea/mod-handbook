@@ -96,7 +96,8 @@ posted: Feb 17, 2024
 
 → This event is officially affiliated with [The Hanged Man](https://thehangedmanpub.netlify.app/)! The Hanged Man is an unofficial collective of Dragon Age fans who try to make a positive difference in the fandom community by giving fans a place to chat, share and create content, and interact. You can read more on [our website](https://arlathanxchange.neocities.org/mod).
 ```
-
+## Noms Update
+```markdown
 # Nominations Update!
 
 ## ✨ There are currently **245 approved tags** ✨
@@ -137,6 +138,7 @@ posted: Feb 17, 2024
 <small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 
 Posted 3/11/2024
+```
 
 ## Nomination Reminders
 ```markdown
@@ -146,13 +148,13 @@ Posted 3/11/2024
 
 Hi all! With just under a week left in the nominations period, we wanted to share a few reminders about nominations for this exchange:
 
-- Tags **must** be nominated to the 2024 tagset if you want to use them in your sign-up. Canonical tags are not included by default and while some tags were carried over from previous years' exchanges, many were not. Double-check that your favorite is part of the 2024 tagset! 
+▸ Tags **must** be nominated to the 2024 tagset if you want to use them in your sign-up. Canonical tags are not included by default and while some tags were carried over from previous years' exchanges, many were not. Double-check that your favorite is part of the 2024 tagset! 
 
-- Nominating tags does **not** mean you have to sign up for the exchange! Even if you're not participating, you can nominate tags to encourage others to create for ships you like. You can also nominate ships that you might want to create treats for!
+▸ Nominating tags does **not** mean you have to sign up for the exchange! Even if you're not participating, you can nominate tags to encourage others to create for ships you like. You can also nominate ships that you might want to create treats for!
 
-- Tags must include at least one Elvhen character to be accepted and OC/PC characters must include a gender & background (i.e. Female Surana, Male Lavellan)
+▸ Tags must include at least one Elvhen character to be accepted and OC/PC characters must include a gender & background (i.e. Female Surana, Male Lavellan)
 
-- You are not limited to existing canonical tags! As long as your tag meets our other requirements, you can manually type it into the nominations box and we will add it to the tagset. Go wild, rarepair and minor NPC lovers! :raised_hands:
+▸ You are not limited to existing canonical tags! As long as your tag meets our other requirements, you can manually type it into the nominations box and we will add it to the tagset. Go wild, rarepair and minor NPC lovers! :raised_hands:
 
 For more details, see our Nominations Tutorial here: [How to Nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate). You can also ask questions in our [Discord](https://discord.gg/F73NDYMeGC) or anonymously via our Tumblr askbox: [Anon ask](https://arlathanxchange.tumblr.com/ask).
 

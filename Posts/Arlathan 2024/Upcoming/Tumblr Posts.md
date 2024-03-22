@@ -4,7 +4,7 @@
 ```markdown
 # Nominations Update!
 
-![](#banner image link (ad main/48h/24h)#)
+![](#banner image link (ad main#)
 
 ## ✨ There are currently **#x# approved tags** ✨
 
@@ -38,13 +38,32 @@
 <small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
 
-## Nominations Close
+## Nominations Close 24h warning
 ```markdown
-# Nominations Have Closed!
+# Nominations Close in 24 Hours!
 
-![A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
+![](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/Reminder24h.png?raw=true)
 
-## ✨ **Final Tag Set:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset) ✨
+## [**CLICK HERE TO NOMINATE YOUR TAGS!**](https://archiveofourown.org/tag_sets/18841)
+
+▸ **Nominations Close:** [Sunday, March 24, 2024 at 12pm ET](https://everytimezone.com/s/37d1e1df)
+<small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
+
+## ✨ **View Nominated Tags:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset) ✨
+
+**Outstanding tag errors that need correction:**
+- *#pairing or tag#*
+> #correction required#
+
+- *#pairing or tag#*
+> #correction required#
+
+**To Make Corrections:**
+> ▸ Go to the [2024 Tag Set](https://archiveofourown.org/tag_sets/18841).
+> ▸ Click the *My Nominations* button on the top right of the page under the menu bar.
+> ▸ Click the *Edit* button on the top right of the page under the menu bar.
+> ▸ Click the **X** to the right of the tag, and reenter the corrected tag in the text box that appears.
+> ▸ Click the *Submit* button at the bottom of the page. 
 
 ## Up Next:
 # **Sign-Ups Open** [Sunday, March 24, 2024 at 12pm ET](https://everytimezone.com/s/37d1e1df)

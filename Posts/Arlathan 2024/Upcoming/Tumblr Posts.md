@@ -38,7 +38,7 @@
 <small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
 
-## Nominations Close 24h warning
+## Nominations Reminder 24h
 ```markdown
 # Nominations Close in 24 Hours!
 

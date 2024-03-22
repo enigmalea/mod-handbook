@@ -18,9 +18,10 @@ After updating, links should look like:
   - [Pre-Nominations Promo](./Tumblr%20Announcements.md#pre-nominations-promo)
 - **Nominations**
   - [Nominations Open](./Tumblr%20Announcements.md#nominations-open)
-  - [Nominations Reminder]()
   - [Nominations Update](./Tumblr%20Announcements.md#nominations-update)
-  - [Nominations Close](./Tumblr%20Announcements.md#nominations-close)
+  - [About Nominations](./Tumblr%20Announcements.md#about-nominations)
+  - [Nominations Reminder 48h]
+  - [Nomitations Reminder 24h]
 - **Sign-Ups**
   - [Sign-Ups Open](./Tumblr%20Announcements.md#sign-ups-open)
   - [Sign-Ups Promo]
@@ -130,40 +131,6 @@ Do you love elves? If so, then we have the fanwork exchange for you! Arlathan Ex
 <small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
 
-## About Nominations
-```markdown
-![A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.](https://64.media.tumblr.com/de1ae21afa87b6cf474653cece168054/1a2d137a6ddf5bdb-6c/s640x960/c6cdecfccbae426b77f6b48ed84f83ba684bcbe8.gif)
-
-# Nomination Reminders:
-
-Hi all! With just under a week left in the nominations period, we wanted to share a few reminders about nominations for this exchange:
-
-→ Tags **must** be nominated to the 2024 tagset if you want to use them in your sign-up. Canonical tags are not included by default and while some tags were carried over from previous years' exchanges, many were not. Double-check that your favorite is part of the 2024 tagset! 
-
-→ Nominating tags does **not** mean you have to sign up for the exchange! Even if you're not participating, you can nominate tags to encourage others to create for ships you like. You can also nominate ships that you might want to create treats for!
-
-→ Tags must include at least one Elvhen character to be accepted and OC/PC characters must include a gender & background (i.e. Female Surana, Male Lavellan)
-
-→ You are not limited to existing canonical tags! As long as your tag meets our other requirements, you can manually type it into the nominations box and we will add it to the tagset. Go wild, rarepair and minor NPC lovers! :raised_hands:
-
-For more details, see our Nominations Tutorial here: [How to Nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate). You can also ask questions in our [Discord](https://discord.gg/F73NDYMeGC) or anonymously via our Tumblr askbox: [Anon ask](https://arlathanxchange.tumblr.com/ask).
-
-## REMINDER
-
-**Nominations Close:** #day, date, time ET#
-<small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
-
-## ☆ MORE INFORMATION
-
-[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [how to nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate/)
-
-## ☆ CONTACT
-
-[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
-
-<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
-```
-
 ## Nominations Update
 [back to contents](./Tumblr%20Announcements.md#contents)
 ```markdown
@@ -205,17 +172,104 @@ For more details, see our Nominations Tutorial here: [How to Nominate](https://a
 <small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
 ```
 
-## Nominations Close
-[back to contents](./Tumblr%20Announcements.md#contents)
+## About Nominations
 ```markdown
-# Nominations Have Closed!
+![A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.](https://64.media.tumblr.com/de1ae21afa87b6cf474653cece168054/1a2d137a6ddf5bdb-6c/s640x960/c6cdecfccbae426b77f6b48ed84f83ba684bcbe8.gif)
 
-![](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
+# Nomination Reminders:
 
-## ✨ **Final Tag Set:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#) ✨
+Hi all! With just under a week left in the nominations period, we wanted to share a few reminders about nominations for this exchange:
+
+→ Tags **must** be nominated to the 2024 tagset if you want to use them in your sign-up. Canonical tags are not included by default and while some tags were carried over from previous years' exchanges, many were not. Double-check that your favorite is part of the 2024 tagset! 
+
+→ Nominating tags does **not** mean you have to sign up for the exchange! Even if you're not participating, you can nominate tags to encourage others to create for ships you like. You can also nominate ships that you might want to create treats for!
+
+→ Tags must include at least one Elvhen character to be accepted and OC/PC characters must include a gender & background (i.e. Female Surana, Male Lavellan)
+
+→ You are not limited to existing canonical tags! As long as your tag meets our other requirements, you can manually type it into the nominations box and we will add it to the tagset. Go wild, rarepair and minor NPC lovers! :raised_hands:
+
+For more details, see our Nominations Tutorial here: [How to Nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate). You can also ask questions in our [Discord](https://discord.gg/F73NDYMeGC) or anonymously via our Tumblr askbox: [Anon ask](https://arlathanxchange.tumblr.com/ask).
+
+## REMINDER
+
+**Nominations Close:** #day, date, time ET#
+<small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
+
+## ☆ MORE INFORMATION
+
+[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [how to nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate/)
+
+## ☆ CONTACT
+
+[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
+
+<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
+```
+
+## Nominations Reminder 48h
+```markdown
+# Nominations Reminder!
+
+![]()
+
+## ✨ [**CLICK HERE TO NOMINATE YOUR TAGS!**](#link#) ✨
+
+**View Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)  
+
+**Nominations Close:** #day, date, time ET#
+
+*<small>[Visit our website](<https://arlathanxchange.neocities.org/docs/intro/#schedule>) to see the schedule in your local time.</small>*
+
+## ☆ REMINDERS
+
+▸ Tags **must** be nominated to the 2024 tagset if you want to use them in your sign-up. Canonical tags are not included by default and while some tags were carried over from previous years' exchanges, many were not. Double-check that your favorite is part of the 2024 tagset!
+
+▸ Nominating tags does **not** mean you have to sign up for the exchange! Even if you're not participating, you can nominate tags to encourage others to create for ships you like. You can also nominate ships that you might want to create treats for!
+
+▸ Tags must include at least one Elvhen character to be accepted and OC/PC characters must include a gender & background (i.e. Female Surana, Male Lavellan)
+
+▸ You are not limited to existing canonical tags! As long as your tag meets our other requirements, you can manually type it into the nominations box and we will add it to the tagset. Go wild, rarepair and minor NPC lovers!
+
+## ☆ MORE INFORMATION
+
+[rules & info](<https://arlathanxchange.neocities.org/docs/intro>) | [faq](<https://arlathanxchange.neocities.org/docs/faqs>) | [how to nominate](<https://arlathanxchange.neocities.org/docs/tutorials/nominate/>)
+
+## ☆ CONTACT
+
+[ask](<https://arlathanxchange.tumblr.com/ask>) | [discord](<https://discord.gg/F73NDYMeGC>) | **email:** arlathanxchange@gmail.com
+
+*<small>Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.</small>*
+```
+
+## Nominations Reminder 24h
+```markdown
+# Nominations Close in 24 Hours!
+
+![](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/Reminder24h.png?raw=true)
+
+## [**CLICK HERE TO NOMINATE YOUR TAGS!**](#link#)
+
+▸ **Nominations Close:** #day, date, time ET#
+<small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
+
+## ✨ **View Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)   ✨
+
+**Outstanding tag errors that need correction:**
+- *#pairing or tag#*
+> #correction required#
+
+- *#pairing or tag#*
+> #correction required#
+
+**To Make Corrections:**
+> ▸ Go to the [#year# Tag Set](#link#).
+> ▸ Click the *My Nominations* button on the top right of the page under the menu bar.
+> ▸ Click the *Edit* button on the top right of the page under the menu bar.
+> ▸ Click the **X** to the right of the tag, and reenter the corrected tag in the text box that appears.
+> ▸ Click the *Submit* button at the bottom of the page. 
 
 ## Up Next:
-# **Sign-Ups Open** #day, date, time ET#
+# **Sign-Ups Open** [Day](https://everytimezone.com/s/37d1e1df)
 
 *[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*
 

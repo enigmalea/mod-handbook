@@ -19,7 +19,8 @@ After updating, links should look like:
 - Nominations
   - [Nominations Open](./Discord%20Announcements.md#nominations-open)
   - [Nominations Update](./Discord%20Announcements.md#nominations-update)
-  - [Nominations Close](./Discord%20Announcements.md#nominations-close)
+  - [About Nominations]
+  - [Nominations Reminder 24h]
 - Sign-Ups
   - [Sign-Ups Open](./Discord%20Announcements.md#sign-ups-open)
 - [General Updates]
@@ -78,38 +79,6 @@ After updating, links should look like:
 <:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
 <:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ```
-## About Nominations
-```markdown
-# Nomination Reminders
-
-<@&946087296829124643> Hello everyone! With just under a week left in the nominations period, we wanted to share a few reminders about nominations for this exchange:
-
-→ Tags **must** be nominated to the 2024 tagset if you want to use them in your sign-up. Canonical tags are not included by default and while some tags were carried over from previous years' exchanges, many were not. Double-check that your favorite is part of the 2024 tagset! 
-
-→ Nominating tags does **not** mean you have to sign up for the exchange! Even if you're not participating, you can nominate tags to encourage others to create for ships you like. You can also nominate ships that you might want to create treats for!
-
-→ Tags must include at least one Elvhen character to be accepted and OC/PC characters must include a gender & background (i.e. Female Surana, Male Lavellan)
-
-→ You are not limited to existing canonical tags! As long as your tag meets our other requirements, you can manually type it into the nominations box and we will add it to the tagset. Go wild, rarepair and minor NPC lovers! :raised_hands:
-
-For more details, see our Nominations Tutorial here: [How to Nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate). You can also <#946087298502639662> if you have any questions! Or ask questions anonymously via our Tumblr askbox: [Anon ask](https://arlathanxchange.tumblr.com/ask).
-
-**Nominations close: <t:1711296000:F>**
-
-**__Have questions or need help?__**
-☆ [Check out the nomination tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
-☆ Ask any of the <@&946087297168838690> for general exhange questions.
-☆ Or contact us by:
-  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
-  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
-  *please contact us via email or the [official extention form](https://arlathanxchange.neocities.org/extension/) regarding individual circumstances.*
-
-<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
-<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
-
-<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
-<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
-```
 
 ## Nominations Update
 [back to contents](./Discord%20Announcements.md#contents)
@@ -141,20 +110,68 @@ For more details, see our Nominations Tutorial here: [How to Nominate](https://a
 <:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ```
 
-## Nominations Close
-[back to contents](./Discord%20Announcements.md#contents)
+## About Nominations
 ```markdown
-# <@&946087296829124643>: Nominations have closed!
+# Nomination Reminders!
 
-**__Final Tag Set__**
-☆ [**Nomination Spreadsheet**](<#Spreadsheet Link#>)
-☆ [**AO3 Tagset**](<#Tagset Link#>)
-☆ [**AutoAO3App**](<#AutoAO3 Link#>)
+<@&946087296829124643> Hello everyone! With just under a week left in the nominations period, we wanted to share a few reminders about nominations for this exchange:
 
-## :sparkles: SIGN UPS OPEN TOMORROW! #discord time stamp# :sparkles:
+→ Tags **must** be nominated to the #year# tagset if you want to use them in your sign-up. Canonical tags are not included by default and while some tags were carried over from previous years' exchanges, many were not. Double-check that your favorite is part of the 2024 tagset! 
+
+→ Nominating tags does **not** mean you have to sign up for the exchange! Even if you're not participating, you can nominate tags to encourage others to create for ships you like. You can also nominate ships that you might want to create treats for!
+
+→ Tags must include at least one Elvhen character to be accepted and OC/PC characters must include a gender & background (i.e. Female Surana, Male Lavellan)
+
+→ You are not limited to existing canonical tags! As long as your tag meets our other requirements, you can manually type it into the nominations box and we will add it to the tagset. Go wild, rarepair and minor NPC lovers! :raised_hands:
+
+For more details, see our Nominations Tutorial here: [How to Nominate](https://arlathanxchange.neocities.org/docs/tutorials/nominate). You can also <#946087298502639662> if you have any questions! Or ask questions anonymously via our Tumblr askbox: [Anon ask](https://arlathanxchange.tumblr.com/ask).
+
+**Nominations close: #Discord Timestamp#**
 
 **__Have questions or need help?__**
+☆ [Check out the nomination tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
+☆ Ask any of the <@&946087297168838690> for general exhange questions.
+☆ Or contact us by:
+  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
+  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
+  *please contact us via email or the [official extention form](https://arlathanxchange.neocities.org/extension/) regarding individual circumstances.*
+
+<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
+<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
+
+<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
+<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
+```
+
+## Nominations Reminder 24h
+[back to contents](./Discord%20Announcements.md#contents)
+```markdown
+# Nominations Reminder!
+
+<@&946087296829124643>: Nominations close in 24 hours! Get your last minute nominations in now!
+
+## :sparkles: [CLICK HERE TO NOMINATE YOUR TAGS!](#link#) :sparkles:
+
+### Nominations close: #Discord Timestamp#
+
+**__Where to View Nominations__**
+☆ [**Nomination Spreadsheet**](#link#)
+☆ [**AO3 Tagset**](#link#)
+☆ [**AutoAO3App**](#link#)
+
+**__Outstanding tag errors that need correction:__**
+- *#pairing or tag#*
+> #correction required#
+
+- *#pairing or tag#*
+> #correction required#
+
+## :sparkles: SIGN UPS OPEN TOMORROW! #Discord Timestamp# :sparkles:
+
+**__Have questions or need help?__**
+☆ [Check out the nominations tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
 ☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+☆ [Learn about exchange letters](https://arlathanxchange.neocities.org/docs/tutorials/letters/)
 ☆ Ask any of the <@&946087297168838690> for general exhange questions.
 ☆ Or contact us by:
   ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]

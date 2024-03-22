@@ -29,7 +29,7 @@
 <:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
 ```
 
-## Nominations Close 24h warning
+## Nominations Reminder 24h
 ```markdown
 # Nominations Reminder!
 

@@ -9,7 +9,7 @@
 
 **:bangbang: With Veilguard set to release in Fall 2024, the mods reserve the right to make drastic adjustments to the schedule when a specific release date is announced. Please note that if we do alter the schedule, it will be to give participants MORE time, not less.**
 
-## **Schedule:**
+## ** *TENTATIVE* Schedule:**
 - **Nominations Open:** <t:1725206400:F>
 - **Nominations Close:** <t:1725811200:F>
 - **Sign Ups Open:** <t:1725811200:F>

@@ -20,7 +20,7 @@ NOMINATIONS OPEN IN 4 WEEKS!
 
 - This year we will pre-load ships and characters that have been nominated for all prior years of DA Polyshipping, so you can free up your nominations spaces for other characters/ships.
 - **Nominations will only be open for one week!**
-- Welcome new mods, @inquisimer & @plissu! With the larger mod team, we will no longer be taking **personal** communications about the exchange via Discord DM or tumblr DM/ask. Please send communications regarding individual circumstances via email or the official extension form. **General** questions can still be asked in discord or via tumblr ask.
+- Welcome new mods, @inquisimer & @plisuu! With the larger mod team, we will no longer be taking **personal** communications about the exchange via Discord DM or tumblr DM/ask. Please send communications regarding individual circumstances via email or the official extension form. **General** questions can still be asked in discord or via tumblr ask.
 
 ## **2024 *TENTATIVE* Schedule**
 

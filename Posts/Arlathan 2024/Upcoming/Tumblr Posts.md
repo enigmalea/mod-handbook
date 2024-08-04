@@ -1,34 +1,33 @@
 # 2024 Upcoming Tumblr Announcements
 
-## Sign-Ups Open
+## Comment Reminder
 ```markdown
-# Sign-Ups Are Open!
 
-![A black background with amber glowing golden text that says "Arlathan eXchange" in a script font which is decorated with leaves. A golden magical light flies around the text wrapping around it and sparkling as if by magic.](https://github.com/enigmalea/mod-handbook/blob/main/Images/Banners%20and%20Ads/Arlathan%20eXchange/AdMain.gif?raw=true)
+# Reminder to Comment!
 
-## ✨ [**CLICK HERE TO SIGN UP!**](https://archiveofourown.org/collections/arlathanxchange2024/signups/new) ✨
+As we gear up for creator reveals tomorrow, please make sure you've left a comment of at least one sentence on your main gift! While you are not *required* to comment on treats, if you cannot distinguish whether a gift you've received is a treat or your main gift, you should comment on both. **It is good etiquette to comment on all gifts received.** 
 
-▸ **Sign-Ups Close:** [Sunday, April 7, 2024 at 12pm ET](https://everytimezone.com/s/17dd6e83)
-<small>*[Visit our website](https://arlathanxchange.neocities.org/docs/intro/#schedule) to see the schedule in your local time.*</small>
+Leaving comments can be difficult, so gif responses and memes are okay, but if you use those, please also add a few words to thank your creator for their hard work!
 
-> [**Requests**](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/all) 
-> <small>⤷ [how to filter autoao3app](https://arlathanxchange.neocities.org/docs/tutorials/autoao3)</small>
->ㅤㅤ ㅤ ㅤ
-> **Nominated Tags:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)
+Please see our website, [FAQs: Help! I didn't get a comment!](<https://arlathanxchange.neocities.org/docs/faqs#no-comment>), for more information on comments and commenting requirements. 
+```
 
-**If you have questions before signing up, you can:**
+## Creators Revealed
+```markdown
 
-- [check out our sign-up tutorial](https://arlathanxchange.neocities.org/docs/tutorials/signups)
-- [learn about exchange letters](https://arlathanxchange.neocities.org/docs/tutorials/letters/)
-- [peruse our FAQs](https://arlathanxchange.neocities.org/docs/faqs)
+# ✨Creators Have Been Revealed!✨
 
-## ☆ MORE INFORMATION
+**Creators, you can start claiming your works!** You can add your works to personal collections and series on AO3, thank your betas, link to your social media accounts, swap out unsigned art, and/or share your work(s) on social media! 
 
-[rules & info](https://arlathanxchange.neocities.org/docs/intro) | [faq](https://arlathanxchange.neocities.org/docs/faqs) | [about exchange letters](https://arlathanxchange.neocities.org/docs/tutorials/letters/) | [how to sign up](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+Feel free to tag @arlathanxchange and we will share your works on our account! 
 
-## ☆ CONTACT
+**Reminders & Info**
 
-[ask](https://arlathanxchange.tumblr.com/ask) | [discord](https://discord.gg/F73NDYMeGC) | **email:** arlathanxchange@gmail.com
+☆ If you haven't already, please make sure to comment on your main gift! While you are not *required* to comment on treats, if you cannot distinguish whether a gift you've received is a treat or your main gift, you should comment on both. **It is good etiquette to comment on all gifts received.**
 
-<small>*Tumblr’s asks are famously unreliable. If you don’t see a response within 72 hours please feel free to resend the ask or send an email.*</small>
+☆ **The collection will remain open for treats!** You can post treats to any of the Arlathan eXchange collections at any time.
+
+☆ The mods of Arlathan eXchange will also be hosting the DA Poly Exchange for healthy polyamory! Follow us on Tumblr at [@dapolyshipping](https://www.tumblr.com/dapolyshipping) for upcoming announcements and event info
+
+Thank you so much to all of our participants! We hope you had fun and that you'll join us again next year💚
 ```

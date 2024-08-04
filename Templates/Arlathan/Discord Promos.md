@@ -70,7 +70,7 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 ☆ [**AutoAO3App**](<#AutoAO3 Link#>)
 
 **Have questions or need help?**
-☆ [Check out the nominations tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/nominate)
+☆ [Check out the nominations tutorial!](<https://arlathanxchange.neocities.org/docs/tutorials/nominate>)
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
 ☆ Join the [Discord](<https://discord.gg/F73NDYMeGC>).
 ☆ Or contact us by:
@@ -93,12 +93,12 @@ _Arlathan Exchange is a celebration of Elvhen characters and is open to gen fic,
 __**Sign-ups close:**__ #Discord Timestamp#
 
 [**View Requests**](#link#)
-  ⤷ [how to filter autoao3app](https://arlathanxchange.neocities.org/docs/tutorials/autoao3)
+  ⤷ [how to filter autoao3app](<https://arlathanxchange.neocities.org/docs/tutorials/autoao3>)
   
-**View Nominated Tags:** [gSheets](#link#) | [ao3](#link#) | [autoao3app](#link#)
+**View Nominated Tags:** [gSheets](<#link#>) | [ao3](<#link#>) | [autoao3app](<#link#>)
 
 __**Have questions or need help?**__
-☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)
+☆ [Check out the sign-up tutorial!](<https://arlathanxchange.neocities.org/docs/tutorials/signups>)
 ☆ Check out our [website](<https://arlathanxchange.neocities.org/>).
 ☆ Join the [Discord](<https://discord.gg/F73NDYMeGC>).
 ☆ Or contact us by:

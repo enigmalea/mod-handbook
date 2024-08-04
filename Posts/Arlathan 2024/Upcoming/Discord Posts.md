@@ -1,27 +1,25 @@
 # 2024 Upcoming Discord Announcements
 
-## Sign-Ups Open
+# Creators Revealed
 ```markdown
-# <@&946087296829124643>: Sign-ups are open!
 
-## :sparkles: [CLICK HERE TO SIGN UP!](https://archiveofourown.org/collections/arlathanxchange2024/signups/new) :sparkles:
+# ✨Creators Have Been Revealed!✨
 
-### Sign-ups close: <t:1712505600:F>
+<@&946087296829124643>
 
-[**Requests**](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/all)
-  ⤷ [how to filter autoao3app](https://arlathanxchange.neocities.org/docs/tutorials/autoao3)
+**Creators, you can start claiming your works!** You can add your works to personal collections and series on AO3, thank your betas, link to your social media accounts, swap out unsigned art, and/or share your work(s) on social media! 
 
-**Nominated Tags:** [gSheets](https://docs.google.com/spreadsheets/d/1m8ludsrYnkbuI-kbJLz0anjSFhuYUkiAft4NZhp1aOM/edit?usp=sharing) | [ao3](https://archiveofourown.org/tag_sets/18841) | [autoao3app](https://autoao3app.firebaseapp.com/#/arlathanxchange2024/tagset)
+Feel free to tag @arlathanxchange and we will share your works on our account! If your work contains healthy polyamory, you can also tag @dapolyshipping and we will reblog it over there. 
 
-**__Have questions or need help?__**
-☆ [Check out the sign-up tutorial!](https://arlathanxchange.neocities.org/docs/tutorials/signups)
-☆ [Learn about exchange letters](<https://arlathanxchange.neocities.org/docs/tutorials/letters/>)
-☆ Ask any of the <@&946087297168838690> for general exhange questions.
-☆ Or contact us by:
-  ⤷ Using [tumblr asks](<https://arlathanxchange.tumblr.com/ask>). [Anon is on!]
-  ⤷ Emailing at :e_mail: arlathanxchange@gmail.com
-  *please contact us via email or the [official extention form](https://arlathanxchange.neocities.org/extension/) regarding individual circumstances.*
+**Reminders & Info**
 
-<:soctumblr:947659438158925834>  [_Tumblr_](<https://arlathanxchange.tumblr.com/>)
-<:socbluesky:1208532546237898804>  [_Bluesky_](<https://bsky.app/profile/arlathanxchange.bsky.social>)
+☆ If you haven't already, please make sure to comment on your main gift! While you are not *required* to comment on treats, if you cannot distinguish whether a gift you've received is a treat or your main gift, you should comment on both. **It is good etiquette to comment on all gifts received.**
+
+☆ **The collection will remain open for treats!** You can post treats to any of the Arlathan eXchange collections at any time.
+
+☆ The mods of Arlathan eXchange will also be hosting the DA Poly Exchange for healthy polyamory! Follow us on Tumblr at [@dapolyshipping](https://www.tumblr.com/dapolyshipping) for upcoming announcements and event info.
+
+Thank you so much to all of our participants! We hope you had fun and that you'll join us again next year💚
+
+**Share the News:** <:soctumblr:947659438158925834> [Creators Have Been Revealed](#TUMBLR LINK#) | <:socbluesky:1208532546237898804> [Creators Have Been Revealed](#BSKY LINK#)
 ```

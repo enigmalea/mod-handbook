@@ -157,3 +157,4 @@ Once you've batch loaded or approved tags, you will need to update the Nominatio
 5. Watch the magic happen.
 6. When the script finishes, scroll through to make sure no names are red. Red names mean there is either a typo or a new character.
 7. On all of the sheets, select everything and double click one of the column lines to auto re-size the columns.
+8. Add any rejected tags to "CORRECTIONS NEEDED" with an explanation of corrections needed to have them accepted.
